@@ -1,0 +1,22 @@
+body {
+  background: yellow;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+footer {
+  display: block;
+  text-align: center;
+}
+a {
+  margin: 0 10px;
+  color: green;
+}
+
+img {
+  display: block;
+  margin: 30px auto;
+}
